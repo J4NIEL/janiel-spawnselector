@@ -1,2 +1,0 @@
-# janiel-spawnselector
-SPAWNED
